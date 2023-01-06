@@ -1,0 +1,15 @@
+{
+  "controls":{
+    "editor_up":    ["w","UP"],
+    "editor_down":  ["s","DOWN"],
+    "editor_left":  ["a","LEFT"],
+    "editor_right": ["d","RIGHT"]
+  },
+  "settings":{
+    "sound":{
+      "music":50,
+      "haptics":50,
+      "notifications":50
+    }
+  }
+}

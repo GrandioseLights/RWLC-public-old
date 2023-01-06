@@ -1,0 +1,121 @@
+id,Category,Colour,Name,Width,Height,Padding,Variants,Pack
+0,Crawl Holes,-4915276,crawlHole entrance S,1,1,0,1,<Package Name>
+1,Crawl Holes,-4915276,crawlHole entrance N,1,1,0,1,<Package Name>
+2,Crawl Holes,-4915276,crawlHole entrance E,1,1,0,1,<Package Name>
+3,Crawl Spaces,-19276,Crawl Space Wall W,1,1,1,1,<Package Name>
+4,Crawl Spaces,-19276,Crawl Space Wall S,1,1,1,1,<Package Name>
+5,Crawl Spaces,-19276,Crawl Space Wall N,1,1,1,1,<Package Name>
+6,Crawl Spaces,-19276,Crawl Space Wall E,1,1,1,1,<Package Name>
+7,Crawl Spaces,-19276,Crawl Space Slope SW,1,1,1,1,<Package Name>
+8,Crawl Spaces,-19276,Crawl Space Slope SE,1,1,1,1,<Package Name>
+9,Crawl Spaces,-19276,Crawl Space Slope NW,1,1,1,1,<Package Name>
+10,Crawl Spaces,-19276,Crawl Space Slope NE,1,1,1,1,<Package Name>
+11,Crawl Spaces,-19276,Crawl Space Otr Corner SW,1,1,1,1,<Package Name>
+12,Crawl Spaces,-19276,Crawl Space Otr Corner SE,1,1,1,1,<Package Name>
+13,Crawl Spaces,-19276,Crawl Space Otr Corner NW,1,1,1,1,<Package Name>
+14,Crawl Spaces,-19276,Crawl Space Otr Corner NE,1,1,1,1,<Package Name>
+15,Crawl Spaces,-19276,Crawl Space Inr Corner SW,1,1,1,1,<Package Name>
+16,Crawl Spaces,-19276,Crawl Space Inr Corner SE,1,1,1,1,<Package Name>
+17,Crawl Spaces,-19276,Crawl Space Inr Corner NW,1,1,1,1,<Package Name>
+18,Crawl Spaces,-19276,Crawl Space Inr Corner NE,1,1,1,1,<Package Name>
+19,Misc,-65281,Corrugated Iron,1,1,0,1,<Package Name>
+20,Temple Stone,-16746316,Corn Cob Pillar,6,4,1,1,<Package Name>
+21,The Wall,-12028848,Cooling Rod U,4,4,1,1,<Package Name>
+22,The Wall,-12028848,Cooling Rod Tip U,4,4,1,1,<Package Name>
+23,The Wall,-12028848,Cooling Rod Tip U Flip,4,4,1,1,<Package Name>
+24,The Wall,-12028848,Cooling Rod Tip R,2,8,1,1,<Package Name>
+25,The Wall,-12028848,Cooling Rod Tip L,2,8,1,1,<Package Name>
+26,The Wall,-12028848,Cooling Rod Tip D,4,4,1,1,<Package Name>
+27,The Wall,-12028848,Cooling Rod Tip D Flip,4,4,1,1,<Package Name>
+28,The Wall,-12028848,Cooling Rod D,4,4,1,1,<Package Name>
+29,The Wall,-12028848,Cooling Rod Base Rim,2,12,1,1,<Package Name>
+30,The Wall,-12028848,Cooling Rod Base Rim Flip,2,12,1,1,<Package Name>
+31,The Wall,-12028848,Cooler Support B,3,2,0,1,<Package Name>
+32,The Wall,-12028848,Cooler Support A,2,1,0,1,<Package Name>
+33,Machinery2,-24321,Conveyor Belt Wheel,4,3,1,1,<Package Name>
+34,Machinery2,-24321,Conveyor Belt Segment,1,3,1,1,<Package Name>
+35,Machinery2,-24321,Conveyor Belt R,3,3,1,1,<Package Name>
+36,Machinery2,-24321,Conveyor Belt L,3,3,1,1,<Package Name>
+37,Machinery2,-24321,Conveyor Belt Covered,4,3,1,1,<Package Name>
+38,Machinery,-24321,Compressor Segment,1,2,0,1,<Package Name>
+39,Machinery,-24321,Compressor R,2,2,0,1,<Package Name>
+40,Machinery,-24321,Compressor L,2,2,0,1,<Package Name>
+41,Misc,-65281,color2 window,3,4,0,1,<Package Name>
+42,Misc,-65281,CircleSignBox,6,6,0,1,<Package Name>
+43,Ventilation,-16764161,chimney segment,16,5,0,1,<Package Name>
+44,Misc 2,-65281,Chain Holder,2,2,0,1,<Package Name>
+45,Misc,-65281,cage,5,2,1,1,<Package Name>
+46,Metal construction,-4915201,C Beam Vertical BB,1,2,1,1,<Package Name>
+47,Metal construction,-4915201,C Beam Vertical BA,1,2,1,1,<Package Name>
+48,Metal construction,-4915201,C Beam Vertical AB,1,2,1,1,<Package Name>
+49,Metal construction,-4915201,C Beam Vertical AA,1,2,1,1,<Package Name>
+50,Metal construction,-4915201,C Beam Horizontal BB,2,1,1,1,<Package Name>
+51,Metal construction,-4915201,C Beam Horizontal BA,2,1,1,1,<Package Name>
+52,Metal construction,-4915201,C Beam Horizontal AB,2,1,1,1,<Package Name>
+53,Metal construction,-4915201,C Beam Horizontal AA,2,1,1,1,<Package Name>
+54,SU patterns,-3014401,Block Edge W,1,1,0,1,<Package Name>
+55,SU patterns,-3014401,Block Edge S,1,1,0,1,<Package Name>
+56,SU patterns,-3014401,Block Edge N,1,1,0,1,<Package Name>
+57,SU patterns,-3014401,Block Edge E,1,1,0,1,<Package Name>
+58,SU patterns,-3014401,Block Corner SW,1,1,0,1,<Package Name>
+59,SU patterns,-3014401,Block Corner SE,1,1,0,1,<Package Name>
+60,SU patterns,-3014401,Block Corner NW,1,1,0,1,<Package Name>
+61,SU patterns,-3014401,Block Corner NE,1,1,0,1,<Package Name>
+62,SU grates,-6291201,Block Clamp,1,2,1,1,<Package Name>
+63,SU grates,-6291201,Block Clamp R,1,2,1,1,<Package Name>
+64,SU grates,-6291201,Block Clamp L,1,2,1,1,<Package Name>
+65,Misc,-65281,bird head,2,2,1,1,<Package Name>
+66,Misc 2,-65281,Bigger Head,6,10,1,1,<Package Name>
+67,Misc 2,-65281,bigClaw R,2,2,0,1,<Package Name>
+68,Misc 2,-65281,bigClaw L,2,2,0,1,<Package Name>
+69,Stone,-2968396,BigBrick,2,2,0,1,<Package Name>
+70,Misc 2,-65281,Big Wheel,4,4,0,1,<Package Name>
+71,Misc,-65281,Big Western Sign,2,1,0,1,<Package Name>
+72,Misc,-65281,Big Western Sign Tilted,2,1,0,1,<Package Name>
+73,Ventilation,-16764161,big wall vent,6,6,1,1,<Package Name>
+74,Temple Stone,-16746316,Big Temple Stone,4,3,0,1,<Package Name>
+75,Temple Stone,-16746316,Big Temple Stone No Slopes,4,3,0,1,<Package Name>
+76,Stone,-2968396,Big Stone,3,3,1,3,<Package Name>
+77,Stone,-2968396,Big Stone Marked,3,3,1,3,<Package Name>
+78,Misc,-65281,Big Sign,3,3,1,1,<Package Name>
+79,Misc,-65281,big ring,5,1,1,1,<Package Name>
+80,Strip Farms,-19436,Big Pot Bottom Piece,2,1,1,1,<Package Name>
+81,Special Pipes,-256,Big Pipe Vertical,6,1,0,1,<Package Name>
+82,Special Pipes,-256,Big Pipe RU,6,6,0,1,<Package Name>
+83,Special Pipes,-256,Big Pipe RD,6,6,0,1,<Package Name>
+84,Special Pipes,-256,Big Pipe LU,6,6,0,1,<Package Name>
+85,Special Pipes,-256,Big Pipe LD,6,6,0,1,<Package Name>
+86,Special Pipes,-256,Big Pipe Horizontal,1,6,0,1,<Package Name>
+87,Metal,-4915201,Big Metal,3,3,1,1,<Package Name>
+88,Metal,-4915201,Big Metal Marked,3,3,1,1,<Package Name>
+89,Special Pipes,-256,Big Inwards Pipe,3,3,1,1,<Package Name>
+90,Special Pipes,-256,Big Inwards Pipe Thinner,3,3,1,1,<Package Name>
+91,Special Pipes,-256,Big Inside Pipe Vertical B,5,1,0,1,<Package Name>
+92,Special Pipes,-256,Big Inside Pipe Vertical A,5,1,0,1,<Package Name>
+93,Special Pipes,-256,Big Inside Pipe RU,5,5,0,1,<Package Name>
+94,Special Pipes,-256,Big Inside Pipe RD,5,5,0,1,<Package Name>
+95,Special Pipes,-256,Big Inside Pipe LU,5,5,0,1,<Package Name>
+96,Special Pipes,-256,Big Inside Pipe LD,5,5,0,1,<Package Name>
+97,Special Pipes,-256,Big Inside Pipe Horizontal B,1,5,0,1,<Package Name>
+98,Special Pipes,-256,Big Inside Pipe Horizontal A,1,5,0,1,<Package Name>
+99,Misc,-65281,Big Head,4,4,1,1,<Package Name>
+100,Machinery,-24321,Big Fan,3,3,1,1,<Package Name>
+101,The Wall,-12028848,Big Engine Upper Part,1,1,1,1,<Package Name>
+102,The Wall,-12028848,Big Engine Transition,1,3,0,1,<Package Name>
+103,The Wall,-12028848,Big Engine Rim,1,5,1,1,<Package Name>
+104,The Wall,-12028848,Big Engine Plate,1,1,0,1,<Package Name>
+105,The Wall,-12028848,Big Engine Plate B,1,1,0,1,<Package Name>
+106,The Wall,-12028848,Big Engine Lower Part,2,5,1,1,<Package Name>
+107,The Wall,-12028848,Big Engine Hole,1,2,0,1,<Package Name>
+108,Machinery2,-24321,Big Drill,3,3,1,1,<Package Name>
+109,The Wall,-12028848,Big Dome U,11,11,1,1,<Package Name>
+110,The Wall,-12028848,Big Dome D,11,11,1,1,<Package Name>
+111,Metal,-4915201,Big Chain Vertical,1,3,0,1,<Package Name>
+112,Metal,-4915201,Big Chain Horizontal,3,1,0,1,<Package Name>
+113,Misc 2,-65281,Big Ball,3,3,1,1,<Package Name>
+114,Fences and grates,-3618616,barbed wire,1,1,0,1,<Package Name>
+115,Fences and grates,-3618616,barbed wire pole,1,1,0,1,<Package Name>
+116,Fences and grates,-3618616,barbed wire pole 2,1,1,0,1,<Package Name>
+117,Fences and grates,-3618616,barbed wire 2,1,1,0,1,<Package Name>
+118,Fences and grates,-3618616,Background Tiles,1,1,1,1,<Package Name>
+119,Fences and grates,-3618616,Back Wall Extended,1,1,1,1,<Package Name>

@@ -1,0 +1,5 @@
+Rooms are best built in this order: Tiles > Pipes > Cameras > Graphics > Materials > Props > Effects > Lighting.
+You can change the file that the editor will save your rendered room to, this means you can save to the Rain World arena folder and play your room right away.
+All arena levels need to have at least one Exit pipe to be playable, but it won't stop the room from loading.
+Graphics and Props don't need to connect like puzzle peices on their own to look good. Some effects can help blur the edges together like Slime, Rust and Melt.
+The Black Goo effect is good for covering cross sections of stuff blocked by terrain in the foreground we can't see, like the insides of walls or piles of trash.
